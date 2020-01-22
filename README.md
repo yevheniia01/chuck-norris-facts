@@ -1,3 +1,17 @@
+# CHUCK NORRIS FACTS
+## app made for entertaintment purposes
+## User Interface in process
+### Deployed to Heroku, so please wait until it loads
+## Click [here](https://chucknorrisfacts01.herokuapp.com/) to open App
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
